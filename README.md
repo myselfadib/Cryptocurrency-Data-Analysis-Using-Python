@@ -1,5 +1,5 @@
 # Cryptocurrency-Data-Analysis-Using-Python
-![alt text]
+![alt text](https://github.com/myselfadib/Cryptocurrency-Data-Analysis-Using-Python/blob/main/Crypto%20Currency%20Trends.png)
 
 This repository hosts an in-depth exploratory data analysis of Bitcoin and Ethereum, the two most prominent cryptocurrencies. Utilizing Python’s powerful libraries, Pandas for data manipulation, Matplotlib for static visualizations, and Plotly for interactive graphics, this project delves into historical price trends, examines volatility patterns, and explores the correlations between these digital currencies.
 
