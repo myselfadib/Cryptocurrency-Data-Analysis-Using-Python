@@ -9,7 +9,7 @@ This repository hosts an in-depth exploratory data analysis of Bitcoin and Ether
 - Volatility Analysis: Examine the stability and fluctuations in the prices of Bitcoin and Ethereum, providing a comparative understanding of their risk profiles.
 - Correlation Studies: Investigate how these two cryptocurrencies influence each other’s market behavior, and how they respond collectively to external pressures such as regulatory changes or economic shifts.
 
-## Data Science Techniques and Tools Used:
+## Data Analysis Techniques and Tools Used:
 
 - Pandas: Employed for robust data manipulation and cleaning, ensuring high-quality datasets for accurate analysis.
 - Matplotlib and Plotly: Utilized to create a range of visualizations from static line plots to dynamic interactive charts that allow for an immersive exploration of data.
